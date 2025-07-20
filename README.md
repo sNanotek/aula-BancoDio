@@ -25,14 +25,23 @@ Além disso, inclui operações como **depósito**, **saque**, **empréstimo** e
 📁 Estrutura do Projeto
 
 ├── class/
+
 │   ├── DioAccount.ts
+
 │   ├── PeopleAccount.ts
+
 │   ├── CompanyAccount.ts
+
 │   └── PeoplePremiumAccount.ts
+
 ├── node_modules/
+
 app.ts
+
 package-lock.json
+
 package.sjon
+
 tsconfig.json
 
 ############
