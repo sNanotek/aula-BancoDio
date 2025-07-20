@@ -29,8 +29,11 @@ Além disso, inclui operações como **depósito**, **saque**, **empréstimo** e
 │   ├── PeopleAccount.ts
 │   ├── CompanyAccount.ts
 │   └── PeoplePremiumAccount.ts
-├── index.ts
-├── README.md
+├── node_modules/
+app.ts
+package-lock.json
+package.sjon
+tsconfig.json
 
 ############
 
