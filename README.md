@@ -47,8 +47,13 @@ tsconfig.json
 ############
 
   Para executar
+  
       git clone https://github.com/seu-usuario/seu-repositorio.git
+      
   instale as dependências
+  
       npm install
+      
   no terminal inicie o projeto em modo desenvolvimento no arquivo app.ts
+  
       npm run dev
